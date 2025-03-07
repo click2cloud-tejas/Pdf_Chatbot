@@ -1,0 +1,17 @@
+beautifulsoup4
+faiss-cpu
+langchain
+langchain-community
+langchain-huggingface
+numpy
+pandas
+pdf2image
+pdfminer.six
+pillow
+pytesseract
+requests
+sentence-transformers
+tabula-py
+torch
+transformers
+urllib3
